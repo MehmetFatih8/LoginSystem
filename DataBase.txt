@@ -1,0 +1,6 @@
+fatih,123123
+cristiano,ronaldo
+lionel,messi
+kylian,mbappe
+lolipop,lolipop
+fatih123,123123
